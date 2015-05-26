@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "folder_exclude_patterns":
+            [
+                "inuit.css",
+                "node_modules",
+                "out/*",
+                ".scssc",
+                "static/*",
+                ".sass-cache/*"
+            ],
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ]
+}
